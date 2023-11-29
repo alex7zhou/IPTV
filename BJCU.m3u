@@ -13,27 +13,27 @@ rtp://239.3.1.213:4220
 rtp://239.3.1.214:4220
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育[高清]
 rtp://239.3.1.173:8001
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+[高清]
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+[高清]
 rtp://239.3.1.130:8004
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV-6电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影[高清]
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影[高清]
 rtp://239.3.1.174:8001
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV-7国防军事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事[高清]
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7国防军事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事[高清]
 rtp://239.3.1.61:8104
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV-8电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧[高清]
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧[高清]
 rtp://239.3.1.175:8001
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV-9纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录[高清]
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录[高清]
 rtp://239.3.1.62:8112
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV-10科教" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教[高清]
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10科教" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教[高清]
 rtp://239.3.1.63:8116
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV-11戏曲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲[高清]
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11戏曲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲[高清]
 rtp://239.3.1.152:8120
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV-12社会与法" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法[高清]
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12社会与法" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法[高清]
 rtp://239.3.1.64:8124
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV-13新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻[高清]
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻[高清]
 rtp://239.3.1.124:8128
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV-14少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿[高清]
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿[高清]
 rtp://239.3.1.65:8132
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV-15音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐[高清]
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐[高清]
 rtp://239.3.1.153:8136
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-16奥林匹克频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克频道[高清]
 rtp://239.3.1.184:8001
